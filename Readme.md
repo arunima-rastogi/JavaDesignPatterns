@@ -12,7 +12,7 @@ They can be classified under following heads:
 2. Structural
 3. Behavioral
 
-#Proxy Design pattern
+# Proxy Design pattern
 
 Creational design patterns deals with object creation - where object creation is simplified for better access, polymorphic behavior, logging, caching
 
