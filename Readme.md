@@ -22,5 +22,12 @@ Proxy design pattern is creational as it helps:
 2. create a kind of wrapper around original object to control it's processing logic
 
 
+# Chain of Responsibility Design Pattern
+
+Chain of Responsibility is behavioral design pattern that allows passing request along the chain of potential handlers until one of them handles request.
+
+The pattern allows multiple objects to handle the request without coupling sender class to the concrete classes of the receivers. The chain can be composed dynamically at runtime with any handler that follows a standard handler interface.
+
+Chain of responsibilities implementation maintains a chain of all objects which are capable of handling requests. This chain is created an maintained by client. If the request is passed to a handler and it does not know how to handle it, then it is passed along the chain by some way. 
 
 
