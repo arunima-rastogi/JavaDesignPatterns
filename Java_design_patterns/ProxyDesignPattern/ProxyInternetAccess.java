@@ -1,4 +1,4 @@
-package Java_design_patterns;
+package ProxyDesignPattern;
 
 public class ProxyInternetAccess implements OfficeInternetAccess {
 	private String employeeName;

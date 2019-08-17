@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package ChainOfResponsibilityDesignPattern;
 
 public class Nomber {
 

@@ -1,4 +1,4 @@
-package ObjectPool_Design-Pattern;
+package ObjectPool_Design_Pattern;
 
 public class MyClass {
 	

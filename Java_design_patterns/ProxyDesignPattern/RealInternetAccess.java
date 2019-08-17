@@ -1,4 +1,4 @@
-package Java_design_patterns;
+package ProxyDesignPattern;
 
 public class RealInternetAccess implements OfficeInternetAccess {
 	private String employeeName;

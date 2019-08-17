@@ -1,4 +1,4 @@
-package Java_design_patterns;
+package ProxyDesignPattern;
 
 public interface OfficeInternetAccess {
 	public void checkInternetAccess();

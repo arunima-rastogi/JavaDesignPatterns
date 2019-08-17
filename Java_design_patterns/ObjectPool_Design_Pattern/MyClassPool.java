@@ -1,4 +1,4 @@
-package ObjectPool_Design-Pattern;
+package ObjectPool_Design_Pattern;
 
 import java.util.ArrayList;
 import java.util.List;

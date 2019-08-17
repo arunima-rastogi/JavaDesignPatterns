@@ -1,4 +1,4 @@
-package Java_design_patterns;
+package ProxyDesignPattern;
 
 public class ProxyPatternClient {
 	public static void main(String[] args) {
